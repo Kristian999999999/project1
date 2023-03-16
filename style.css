@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+  background-color: aqua;
+  padding: 5px;
+  margin: 8px;
+}
+
+header a{
+    text-decoration:  none;
+   border:  3px solid rgb(134, 179, 230);
+   padding: 3px;
+   margin: 5px;
+}
+
+h1{
+    color: red;
+    border: 3px solid royalblue;
+    padding: 3px;
+    text-align: center;
+}
+footer{
+    color: red;
+    border: 2px solid blue;
+    text-align: center;
+}
+
+nav a{
+  padding: 5px;
+  margin: 20px;
+  text-decoration: none; 
+  border: 3px solid red;
+  color: royalblue; 
+  border-radius:10px ;
+}
+
+.container {
+    background-color: blue;
+    margin: 60px;
+    padding: 9px;
+}
+
+
+h2{
+    color: red;
+}
+
+main img{
+    
+}
